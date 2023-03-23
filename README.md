@@ -26,7 +26,7 @@ A list of tags used to identify the parts of speech is in a Key at the bottom of
 
 # Use Cases
 - Extract names, proper-nouns, et al from large swaths of text.
-- Find common names/proper-nouns across many files (especially when used with tools likehttps://github.com/s7ephen/seacrane/wiki#ocr-images-in-a-directory)
+- Find common names/proper-nouns across many files (especially when used with tools like https://github.com/s7ephen/seacrane/wiki#ocr-images-in-a-directory)
 - With extracted text from PDFs, Ebooks, audio-files, images, the ability to find commonwords based on their parts of speech is powerful. This is meant to facilitate this.
  
 # Installation
